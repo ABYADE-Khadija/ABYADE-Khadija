@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### :woman_technologist: About Me 
 I am a junior Data Analyst and Backend Developer from Morocco.
 
-- 👨‍🎓 I'm studing Systems Informations and Big data. 
+- 👨‍🎓 I'm studing Information system and Big data. 
 
 - 📫 How to reach me:  khadija.abyade20@gmail.com 
 
