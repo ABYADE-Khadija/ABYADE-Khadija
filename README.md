@@ -64,11 +64,11 @@ I am a junior Data Analyst and Backend Developer from Morocco.
 
 ### :fire: My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABYADE-Khadija)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABYADE-Khadija&count_private=true)](https://git.io/streak-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABYADE-Khadija&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABYADE-Khadija&langs_count=8&count_private=true&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
