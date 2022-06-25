@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vXZJBKjb0UtpFWzvpQ/giphy.gif" width="200"/>
-  
+
         If at first you don't succeed; call it version 1.0 and start again 😄
 </div>
 
@@ -32,9 +32,9 @@ I am a junior Data Analyst and Backend Developer from Morocco.
 
 - 👨‍🎓 I'm studing Information system and Big data. 
 
-- 📫 How to reach me:  khadija.abyade20@gmail.com 
-
 - 👯 I’m looking to collaborate on SSIS and PowerBI Solutions
+
+- 📫 How to reach me:  khadija.abyade20@gmail.com 
 
 ---
 
@@ -67,8 +67,11 @@ I am a junior Data Analyst and Backend Developer from Morocco.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ABYADE-Khadija&count_private=true)](https://git.io/streak-stats)
 
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABYADE-Khadija&langs_count=8&count_private=true&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABYADE-Khadija&langs_count=8&count_private=true&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
